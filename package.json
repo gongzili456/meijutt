@@ -1,6 +1,6 @@
 {
   "name": "meijutt",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Parse meijutt movie download url link",
   "main": "index.js",
   "scripts": {},
@@ -11,7 +11,7 @@
     "type": "git",
     "url": "git@github.com:gongzili456/meijutt.git"
   },
-  "keyword": ["meiju", "meijutt", "美剧", "美剧天堂"],
+  "keywords": ["meiju", "meijutt", "美剧", "美剧天堂"],
   "author": "LiuGuili <gongzili456@gmail.com> (http://geeekr.com)",
   "license": "ISC",
   "dependencies": {
