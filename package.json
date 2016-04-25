@@ -4,6 +4,9 @@
   "description": "Parse meijutt movie download url link",
   "main": "index.js",
   "scripts": {},
+  "bin": {
+    "meijutt": "./index.js"
+  },
   "author": "LiuGuili <gongzili456@gmail.com> (http://geeekr.com)",
   "license": "ISC",
   "dependencies": {
