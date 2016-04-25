@@ -1,0 +1,15 @@
+{
+  "name": "meijutt",
+  "version": "1.0.0",
+  "description": "Parse meijutt movie download url link",
+  "main": "index.js",
+  "scripts": {},
+  "author": "LiuGuili <gongzili456@gmail.com> (http://geeekr.com)",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "commander": "^2.9.0",
+    "iconv-lite": "^0.4.13",
+    "request": "^2.72.0"
+  }
+}
