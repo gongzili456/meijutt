@@ -1,6 +1,6 @@
 {
   "name": "meijutt",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Parse meijutt movie download url link",
   "main": "index.js",
   "scripts": {},
