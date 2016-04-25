@@ -19,7 +19,6 @@ program
       encodedstr.push(gb[i].toString(16).toUpperCase());
     }
     var enurl = encodedstr.join('%');
-    console.log('name %s', name, enurl);
 
     request.post({
       url:'http://www.meijutt.com/search.asp',
